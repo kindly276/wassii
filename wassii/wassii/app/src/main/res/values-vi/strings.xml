@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">Wassii</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="login_share_private">ShareLogin</string>
+    <string name="action_settings">Settings</string>
+    <string name="st_wassii">Wassii</string>
+    <string name="st_phone_number">Số điện thoại</string>
+    <string name="st_phone_password">Mật khẩu</string>
+    <string name="st_sign_up">Đăng ký</string>
+    <string name="st_name">Họ tên</string>
+    <string name="st_re_enter">Nhập lại mật khẩu</string>
+    <string name="st_get_otp">Nhận mã xác thực</string>
+    <string name="st_welcome">Welcome to  the world of TRUE SERVICE</string>
+    <string name="st_done_register">Mã xác thực đã gửi đến số điện thoại đăng ký của quý khách.</string>
+    <string name="st_not_receiver">Không nhận được mã?</string>
+    <string name="st_send_otp">Gửi lại mã xác thực</string>
+    <string name="st_back_register">Quay lại màn hình đăng ký</string>
+    <string name="st_Otp">Mã xác thực</string>
+    <string name="st_description">GIẶT LÀ là phải TẠI NHÀ</string>
+    <string name="st_order">ĐẶT LỊCH GIẶT</string>
+    <string name="st_vourcher_account">TÀI KHOẢN KHUYẾN MẠI</string>
+    <string name="st_vourcher_account_confirm">Tài khoản khuyến mại:</string>
+    <string name="st_info_person">THÔNG TIN CÁ NHÂN</string>
+    <string name="st_calendar">LỊCH GIẶT</string>
+    <string name="st_list_price">BẢNG GIÁ</string>
+    <string name="st_help">TRỢ GIÚP</string>
+    <string name="st_language">NGÔN NGỮ</string>
+    <string name="st_fullname">Họ tên:</string>
+    <string name="st_info_phone_number">Điện thoại:</string>
+    <string name="st_info_address">Địa chỉ:</string>
+    <string name="st_logout">Thoát</string>
+    <string name="st_edit">Sửa</string>
+    <string name="st_note_book_service">Quý khách đã chọn thời gian trả đồ nhanh hơn thời gian tiêu chuẩn 3 ngày của Wassii. Giá dịch vụ được tính tăng thêm 50% so với bảng giá.</string>
+    <string name="st_location_receive">Điểm nhận:</string>
+    <string name="st_location_return">Điểm trả:</string>
+    <string name="st_time_receiver">Giờ nhận:</string>
+    <string name="st_time_return">Giờ trả:</string>
+    <string name="st_book_note">Ghi chú:</string>
+    <string name="st_book_calendar">Lịch giặt:</string>
+    <string name="st_book_note_hint">Các yêu cầu đặc biệt khác...</string>
+    <string name="st_confirm_order">Xác nhận đơn hàng</string>
+    <string name="st_code_vourcher">Mã khuyến mại:</string>
+    <string name="st_ok">OK</string>
+    <string name="st_description_confirm">Wassii sẽ thực hiện kiểm tra danh mục đồ giặt ngay tại thời điểm nhận đồ\n \nGiá trị dịch vụ và số tiền thanh toán sẽ được gửi tới quý khách khi quy trình kiểm tra đồ của Wassii hoàn tất.</string>
+    <string name="st_done">Hoàn tất</string>
+    <string name="st_currtent_account">Tài khoản hiện tại:</string>
+    <string name="st_currtent_account_description">Tài khoản khuyến mại được khấu trừ tự động vào các đơn hàng theo hình thức khấu trừ tối đa sau khi đã trừ tiền khuyến mại của các mã giảm giá. \n\n Các mã giảm giá có thời gian sử dụng 01 mã cho mỗi đơn hàng \n\n Chúc quý khách một ngày tràn đầy năng lượng!</string>
+    <string name="login_message_fail">Thông tin đăng nhập không hợp lệ</string>
+    <string name="register_message_fail">Thông tin đăng ký không hợp lệ</string>
+    <string name="common_message_fail">Thông nhập vào không hợp lệ</string>
+    <string name="no_connection_login">Không có kết nối mạng</string>
+    <string name="error">Có lỗi xảy ra</string>
+    <string name="error_retry">Có lỗi xảy ra nhấn vào đây để thử lại</string>
+    <string name="contact_please_wait">Vui lòng chờ...</string>
+    <string name="pass_coincides">Vui lòng nhập mật khẩu trùng nhau</string>
+    <string name="pass_six_character">Mật khẩu ít nhất là 6 kí tự</string>
+    <string name="st_login">Đăng nhập</string>
+    <string name="st_forget_password">Quên mật khẩu?</string>
+    <string name="st_forget_password_des">Nhập số điện thoại đăng ký để nhận mã xác thực đặt lại mật khẩu</string>
+    <string name="st_back_login">Quay lại màn hình đăng nhập</string>
+    <string name="st_please_input_otp">Vui lòng nhập mã xác nhận</string>
+    <string name="st_success">Thành công</string>
+    <string name="st_save">Lưu</string>
+    <string name="st_cancel">Bỏ qua</string>
+    <string name="popup_notify">Thông báo</string>
+    <string name="title_popup_confirm">Xác nhận</string>
+    <string name="des_popup_confirm_logout">Bạn có muốn thoát khỏi hệ thống?</string>
+    <string name="st_input_current_pass">Nhập mật khẩu hiện tại</string>
+    <string name="st_input_new_pass">Nhập mật mới</string>
+    <string name="st_input_new_pass_re">Nhập lại mật mới</string>
+    <string name="st_change_pass">Đổi mật khẩu</string>
+    <string name="please_input_phone">Vui lòng nhập số điện thoại để lấy lại mật khẩu</string>
+    <string name="no_data">Không có dữ liệu</string>
+    <string name="no_connection">Không có kết nối mạng nhấn vào đây để thử lại</string>
+    <string name="un_authenticated">Xác thực tài khoản thất bại.\n Nhấn vào đây để đăng nhập lại</string>
+    <string name="st_money">VNĐ</string>
+    <string name="st_about_hour">Vui lòng chọn khung giờ từ 6h đến 22h</string>
+    <string name="st_set_time">Set Time</string>
+    <string name="st_next">Tiếp tục</string>
+
+
+    <string-array name="list_schedule">
+        <item>Chỉ 1 lần</item>
+        <item>1 tuần 1 lần </item>
+        <item>2 tuần 1 một lần</item>
+        <item>3 tuần 1 lần</item>
+        <item>4 tuần 1 lần</item>
+    </string-array>
+    <string name="st_sunday">Chủ nhật</string>
+    <string name="st_monday">Thứ hai</string>
+    <string name="st_tuesday">Thứ ba</string>
+    <string name="st_wednesday">Thứ tư</string>
+    <string name="st_thursday">Thứ năm</string>
+    <string name="st_friday">Thứ sáu</string>
+    <string name="st_aturday">Thứ bảy</string>
+    <string name="st_error_time_receiver">Vui lòng chọn lại thời gian nhận đồ. Wassii chỉ có thể phục vụ nhanh nhất 30 phút tính từ thời điểm đặt hàng.</string>
+    <string name="st_error_time_return">Vui lòng chọn lại thời gian trả đồ. Wassii phục vụ giặt là chất lượng cao siêu tốc trả đồ nhanh nhất sau 24h.</string>
+    <string name="st_book_wassi">Đặt lịch giặt:</string>
+    <string name="st_book_wassi_two">Đặt lịch giặt</string>
+    <string name="st_once">Chỉ một lần</string>
+    <string name="st_one_week">Hàng tuần</string>
+    <string name="st_two_week">2 tuần 1 một lần</string>
+    <string name="st_three_week">3 tuần 1 một lần</string>
+    <string name="st_four_week">4 tuần 1 một lần</string>
+    <string name="st_receiver">Nhận đồ</string>
+    <string name="st_return">Trả đồ</string>
+    <string name="st_description_title">Wassii luôn sẵn sàng phục vụ lịch giặt cố định của quý khách</string>
+    <string name="st_description_book">Đặt lịch một lần - Thoải mái hàng tuần</string>
+    <string name="st_description_book_calendar">Lịch giặt có thể đặt một lần, hoặc 2 tuần/lần, 3 tuần/lần và 4 tuần/lần</string>
+    <string name="st_confirm_logout">Quý khách có muốn thoát khỏi ứng dụng?</string>
+    <string name="st_version_update">Đã có phiên bản update mới quả Wassii, quý khách vui lòng cập nhật phiên bản mới</string>
+    <string name="st_check_location">Hiện tại chưa đặt lịch được ở khu vực này, vui lòng chọn vị trí khác</string>
+    <string-array name="list_language">
+        <item>Engligh</item>
+        <item>Tiếng Việt</item>
+        <item>Japan</item>
+        <item>Korea</item>
+    </string-array>
+    <string-array name="list_id_language">
+        <item>en_GB</item>
+        <item>vi_VN</item>
+        <item>ja_JP</item>
+        <item>ko_KR</item>
+    </string-array>
+    <string-array name="list_month">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+
+    </string-array>
+    <string name="st_update_language_later">Ngôn ngữ %s sẽ được cập nhật trong những phiên bản sắp tới</string>
+
+</resources>

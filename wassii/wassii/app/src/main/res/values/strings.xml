@@ -1,0 +1,145 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="login_share_private">ShareLogin</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="list_id_language">
+        <item>en_GB</item>
+        <item>vi_VN</item>
+        <item>ja_JP</item>
+        <item>ko_KR</item>
+    </string-array>
+    <string name="app_name">Wassii</string>
+    <string name="st_wassii">Wassii</string>
+    <string name="st_phone_number">Phone number</string>
+    <string name="st_phone_password">Password</string>
+    <string name="st_sign_up">Sign up</string>
+    <string name="st_name">Full name</string>
+    <string name="st_re_enter">Retype password</string>
+    <string name="st_get_otp">Verification code</string>
+    <string name="st_welcome">Welcome to  the world of TRUE SERVICE</string>
+    <string name="st_done_register">A verification code has been sent to your phone number.</string>
+    <string name="st_not_receiver">Not received yet?</string>
+    <string name="st_send_otp">Resent a Verification code</string>
+    <string name="st_back_register">Back to registration</string>
+    <string name="st_Otp">Verification code</string>
+    <string name="st_description">Wassii – What Premium washing is</string>
+    <string name="st_order">ORDER</string>
+    <string name="st_vourcher_account">PROMOTION BALANCE</string>
+    <string name="st_vourcher_account_confirm">Promotion balance:</string>
+    <string name="st_info_person">PERSONAL INFORMATION</string>
+    <string name="st_calendar">RECURRING</string>
+    <string name="st_list_price">PRICING LIST</string>
+    <string name="st_help">HELP</string>
+    <string name="st_language">LANGUAGE</string>
+    <string name="st_fullname">Full name:</string>
+    <string name="st_info_phone_number">Phone number:</string>
+    <string name="st_info_address">Address:</string>
+    <string name="st_logout">Sign out</string>
+    <string name="st_edit">Edit</string>
+    <string name="st_note_book_service">You are requesting a returning time of less than 3 days which entails an additional charge of 50%.</string>
+    <string name="st_location_receive">Pick-up place:</string>
+    <string name="st_location_return">Return place:</string>
+    <string name="st_time_receiver">Pick-up time:</string>
+    <string name="st_time_return">Return time:</string>
+    <string name="st_book_note">Note:</string>
+    <string name="st_book_calendar">Recurring:</string>
+    <string name="st_book_note_hint">Other specific requirements...</string>
+    <string name="st_confirm_order">Confirm your order</string>
+    <string name="st_code_vourcher">Promotion code:</string>
+    <string name="st_ok">OK</string>
+    <string name="st_description_confirm">Wassii will check your stuffs at the time of picking-up and inform payment details for your knowledge after completing our cheking procudures.</string>
+    <string name="st_done">Finish</string>
+    <string name="st_currtent_account">Current Balance:</string>
+    <string name="st_currtent_account_description"> Promotion balance will be automatically added to your order \n\n We wish you a day of full energy</string>
+
+    <string name="login_message_fail">Signing-in information ineligible </string>
+    <string name="register_message_fail">Signing-up information ineligible</string>
+    <string name="common_message_fail">Ineligible Information </string>
+    <string name="no_connection_login">No Internet connection</string>
+    <string name="error">Error(s) found</string>
+    <string name="error_retry">Error(s) found. Click to retry.</string>
+    <string name="contact_please_wait">Please wait...</string>
+    <string name="pass_coincides">Please type the same password</string>
+    <string name="pass_six_character">Password requires at least 6 characters</string>
+    <string name="st_login">Sign in</string>
+    <string name="st_forget_password">Forgot your password?</string>
+    <string name="st_forget_password_des">Please enter your registerred number in order to receive a
+Verification code for resetting your password </string>
+    <string name="st_back_login">Back to registration</string>
+    <string name="st_please_input_otp">Type your Verification code</string>
+    <string name="st_success">Successful</string>
+    <string name="st_save">Save</string>
+    <string name="st_cancel">Skip</string>
+    <string name="popup_notify">Notification</string>
+    <string name="title_popup_confirm">Confirm</string>
+    <string name="des_popup_confirm_logout">Do you want to sign out?</string>
+    <string name="st_input_current_pass">Type your current password</string>
+    <string name="st_input_new_pass">Type your new password</string>
+    <string name="st_input_new_pass_re">Retype your new password</string>
+    <string name="st_change_pass">Change your password</string>
+    <string name="please_input_phone">Type your phone number to change your password</string>
+    <string name="no_data">No data</string>
+    <string name="no_connection">No Internet connection. Click to retry.</string>
+    <string name="un_authenticated">Account Confirmation failed.\n Click to sign in again</string>
+    <string name="st_money">VND</string>
+    <string name="st_about_hour">Services only available from 6:00 to 22:00</string>
+
+    <string name="st_set_time">Set Time</string>
+    <string name="st_next">Continue</string>
+
+    <string-array name="list_schedule">
+        <item>Once only</item>
+        <item>Once per fortnight</item>
+        <item>Once per three weeks</item>
+        <item>Once per four weeks</item>
+    </string-array>
+    <string name="st_sunday">Sunday</string>
+    <string name="st_monday">Monday</string>
+    <string name="st_tuesday">Tuesday</string>
+    <string name="st_wednesday">Wednesday</string>
+    <string name="st_thursday">Thursday</string>
+    <string name="st_friday">Friday</string>
+    <string name="st_aturday">Saturday</string>
+    <string name="st_error_time_receiver">pick-up time should be at least 30 minutes later than the current time.</string>
+    <string name="st_error_time_return">Returning time should not be less than 24 hours, please do it again.</string>
+    <string name="st_book_wassi">Recurring:</string>
+    <string name="st_book_wassi_two">Recurring</string>
+    <string name="st_once">Once only</string>
+    <string name="st_one_week">Once a week</string>
+    <string name="st_two_week">Once per fortnight</string>
+    <string name="st_three_week">Once per three weeks</string>
+    <string name="st_four_week">Once per four weeks</string>
+    <string name="st_receiver">Pick-up</string>
+    <string name="st_return">Return</string>
+    <string name="st_description_title">Wassii is willing to serve your fixed recurring </string>
+    <string name="st_description_book">Forget your laundry day with recurring option </string>
+    <string name="st_description_book_calendar">Recurring maybe Once only, Once per fortnignt, Once per tree weeks or Once for four weeks</string>
+
+    <string name="st_confirm_logout">Do you want to sign out?</string>
+    <string name="st_version_update">An updated version of Wassi has been released, please download now</string>
+    <string name="st_check_location">Wassii is not available at this area, please select another one</string>
+    <string-array name="list_language">
+        <item>Engligh</item>
+        <item>Tiếng Việt</item>
+        <item>Japan</item>
+        <item>Korea</item>
+    </string-array>
+    <string-array name="list_month">
+        <item>January</item>
+        <item>February </item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+
+    </string-array>
+    <string name="st_update_language_later">Will be supported in the future versions</string>
+
+</resources>
